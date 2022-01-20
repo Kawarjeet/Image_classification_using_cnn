@@ -1,4 +1,4 @@
-## Image_classification_using_cnn
+## Image Classification(Cats and Dogs) using 3 layered Convolutional Neural Network
 ### Steps:
 ### 1. Import dataset
 ### 2. Import Libraries and modules
