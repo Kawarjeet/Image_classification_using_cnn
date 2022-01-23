@@ -10,10 +10,12 @@
 ### 8. Create a model using CNN
 ### 9. Train the model
 ### 10. Visualize the results
-&nbsp
+
+<br />
+
 ### Image classification are used everwhere from Facebook's photo tagging to self driving car.
 
-
+<br />
 
 ### A CNN is ideal for 2-D images. 
 ### CNNs have an input layer, and output layer, and hidden layers. 
