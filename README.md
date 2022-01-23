@@ -20,3 +20,6 @@
 ### A CNN is ideal for 2-D images. 
 ### CNNs have an input layer, and output layer, and hidden layers. 
 ### The hidden layers usually consist of convolutional layers, ReLU layers, pooling layers, and fully connected layers.
+<br />
+### when we say convolving filters or kernels with the image means taking dot product of the filter or kernel with image.
+
