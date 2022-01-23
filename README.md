@@ -15,6 +15,7 @@
 ### Image classification are used everwhere from Facebook's photo tagging to self driving car.
 
 
+
 ### A CNN is ideal for 2-D images. 
 ### CNNs have an input layer, and output layer, and hidden layers. 
 ### The hidden layers usually consist of convolutional layers, ReLU layers, pooling layers, and fully connected layers.
