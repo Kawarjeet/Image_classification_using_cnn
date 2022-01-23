@@ -10,8 +10,7 @@
 ### 8. Create a model using CNN
 ### 9. Train the model
 ### 10. Visualize the results
-
-
+&nbsp
 ### Image classification are used everwhere from Facebook's photo tagging to self driving car.
 
 
